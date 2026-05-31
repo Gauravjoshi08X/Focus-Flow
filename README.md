@@ -246,22 +246,4 @@ Manage:
 Keep everything local and available offline.
 
 ---
-
-## Roadmap
-
-* Statistics dashboard
-* CSV export of session logs
-* Backup and restore
-* Additional widget sizes
-* Custom Pomodoro durations
-* Project archiving
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
 **FocusFlow — Built for focus. Designed for privacy.**
