@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const FocusFlow());
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+class FocusFlow extends StatelessWidget {
+  const FocusFlow({super.key});
 
   // This widget is the root of your application.
   @override
